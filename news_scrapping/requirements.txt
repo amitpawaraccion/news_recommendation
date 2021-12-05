@@ -1,0 +1,6 @@
+selenium
+webdriver-manager
+bs4
+pandas
+requests
+chromedriver-binary==77.0.3865.40.0
